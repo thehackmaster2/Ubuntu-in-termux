@@ -4,7 +4,7 @@
 2. apt-get install wget -y
 3. apt-get install proot -y
 4. apt-get install git -y
-5. git clone https://github.com/MFD...​
+5. git clone https://github.com/thehackmaster2/Ubuntu-in-termux.git
 
 7. cd ubuntu-in-termux
 8. chmod +x ubuntu.sh
